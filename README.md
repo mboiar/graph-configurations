@@ -1,3 +1,4 @@
-# Graph configurations
+Various projects:
 
-Given an undirected graph, count all possible direction configurations.
+graph.py:     counting graph directional configurations 
+automaton.py: cellular automaton with flexible parameters + visualization
